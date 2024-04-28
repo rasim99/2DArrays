@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\TwoSizeArray\TwoSizeArray\TwoSizeArray\bin\Debug\net8.0\TwoSizeArray.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\TwoSizeArray\TwoSizeArray\TwoSizeArray\bin\Debug\net8.0\TwoSizeArray.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\TwoSizeArray\TwoSizeArray\TwoSizeArray\bin\Debug\net8.0\TwoSizeArray.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\TwoSizeArray\TwoSizeArray\TwoSizeArray\bin\Debug\net8.0\TwoSizeArray.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\TwoSizeArray\TwoSizeArray\TwoSizeArray\bin\Debug\net8.0\TwoSizeArray.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\TwoSizeArray\TwoSizeArray\TwoSizeArray\obj\Debug\net8.0\TwoSizeArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\TwoSizeArray\TwoSizeArray\TwoSizeArray\obj\Debug\net8.0\TwoSizeArray.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\TwoSizeArray\TwoSizeArray\TwoSizeArray\obj\Debug\net8.0\TwoSizeArray.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\TwoSizeArray\TwoSizeArray\TwoSizeArray\obj\Debug\net8.0\TwoSizeArray.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\TwoSizeArray\TwoSizeArray\TwoSizeArray\obj\Debug\net8.0\TwoSizeArray.sourcelink.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\TwoSizeArray\TwoSizeArray\TwoSizeArray\obj\Debug\net8.0\TwoSizeArray.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\TwoSizeArray\TwoSizeArray\TwoSizeArray\obj\Debug\net8.0\refint\TwoSizeArray.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\TwoSizeArray\TwoSizeArray\TwoSizeArray\obj\Debug\net8.0\TwoSizeArray.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\TwoSizeArray\TwoSizeArray\TwoSizeArray\obj\Debug\net8.0\TwoSizeArray.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\TwoSizeArray\TwoSizeArray\TwoSizeArray\obj\Debug\net8.0\ref\TwoSizeArray.dll
